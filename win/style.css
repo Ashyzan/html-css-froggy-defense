@@ -1,0 +1,179 @@
+/* LIV 1 */
+
+#pond {
+    display: flex;
+    justify-content:flex-end;
+  
+  }
+
+/* LIV 2 */
+  #pond {
+    display: flex;
+    justify-content:center;
+  
+  }
+  
+/* LIV 3 */
+    #pond {
+        display: flex;
+        justify-content:space-around;
+      
+      }
+
+/* LIV 4 */
+#pond {
+    display: flex;
+    justify-content:space-between;
+  
+  }
+
+  /* LIV 5 */
+
+  #pond {
+    display: flex;
+    align-items:flex-end;
+  
+  }
+ /* LIV 6 */
+ #pond {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+  
+  }
+
+/* LIV 7 */
+#pond {
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+  }
+
+/* LIV 8 */
+#pond {
+    display: flex;
+    flex-direction:row-reverse; 
+  }
+
+  /* LIV 9 */
+  #pond {
+    display: flex;
+    flex-direction:column;
+  
+  }
+/* LIV 10 */
+#pond {
+  display: flex;
+  flex-direction:row-reverse;
+  justify-content:flex-end;
+
+}
+
+/* LIV 11 */
+#pond {
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-end;
+  
+  }
+/* LIV 12 */
+#pond {
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-between;
+  
+  }
+/* LIV 13 */
+#pond {
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+    align-items:flex-end;
+  
+  }
+/* LIV 14*/
+#pond {
+    display: flex;
+  }
+  
+  .yellow {
+    order:1;
+  
+  }
+
+/* LIV 15 */
+#pond {
+  display: flex;
+}
+
+.red {
+    order:-3;
+}
+
+/* LIV 16 */
+#pond {
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+    align-self:flex-end;
+}
+/* LIV 17 */
+#pond {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .yellow {
+    align-self:flex-end;
+    order:2;
+  }
+/* LIV 18 */
+#pond {
+    display: flex;
+    flex-wrap:wrap;
+  }
+/* LIV 19 */
+#pond {
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+  
+  }
+/* LIV 20 */
+#pond {
+    flex-flow: column wrap;
+  
+  }
+/* LIV 21 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content:flex-start;
+  
+  }
+/* LIV 22 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    align-content:flex-end;
+  
+  }
+/* LIV 23 */
+#pond {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column-reverse;
+    align-content:center;
+  
+  }
+/* lIV24 */
+#pond {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction:column-reverse;
+    align-content:space-between;
+    justify-content:center;
+  
+  }
